@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FileReaderAndWriter
+comment0.text=\r\n\ This\ class\ reads\ data\ from\ a\ sample\ text\ file\ \ and\ writes\ into\ output\ text\ file\ \ \r\n\r\n\ Author\:\ Basit\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=the\ main\ method
+comment2.params=
+comment2.target=void\ run()
+comment2.text=the\ run\ method
+numComments=3
